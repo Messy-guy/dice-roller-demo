@@ -1,0 +1,41 @@
+#container{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color:#262626;
+    text-shadow: 2px 2px 4px white;
+}
+button{
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    color: aliceblue;
+    background-color: #255C99;
+}
+button:hover{
+    background-color: rgb(71, 76, 172);
+}
+button:active{
+    background-color: rgb(10, 10, 136);
+}
+input{
+    text-align: center;
+    font-style:oblique;
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 30px;
+}
+.images{
+    width: 100px;
+    height: 100px;
+    box-shadow: 5px 3px 3px black;
+    border: 20px;
+    border-radius: 15px;
+    margin: 20px;
+    
+}
+body{
+    background-color: #B3001B;
+}
